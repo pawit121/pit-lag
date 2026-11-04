@@ -1,0 +1,65 @@
+form,filer_group,convention,filings,leaked_pct,median_days_early,unused_pct,median_days_unused
+10-K,accelerated,period end,10823,100.0,69.0,0.0,0.0
+10-K,accelerated,period end + 30 days,10823,99.85,39.0,0.13,4.0
+10-K,accelerated,period end + 45 days,10823,98.0,24.0,1.43,4.0
+10-K,accelerated,period end + 60 days,10823,74.34,11.0,21.16,5.0
+10-K,accelerated,period end + 90 days,10823,2.72,7.0,96.7,21.0
+10-K,accelerated,"US large-accelerated deadlines for all (10-Q 40, 10-K 60)",10823,74.34,11.0,21.16,5.0
+10-K,accelerated,legal deadline for the filer's status,10823,13.87,1.0,75.54,10.0
+10-K,accelerated,"actual filing, first usable day (baseline)",10823,0.0,0.0,0.0,0.0
+10-K,large accelerated,period end,22347,100.0,55.0,0.0,0.0
+10-K,large accelerated,period end + 30 days,22347,99.31,25.0,0.51,4.0
+10-K,large accelerated,period end + 45 days,22347,85.74,11.0,11.16,5.0
+10-K,large accelerated,period end + 60 days,22347,8.69,1.0,78.15,7.0
+10-K,large accelerated,period end + 90 days,22347,0.3,63.0,99.67,35.0
+10-K,large accelerated,"US large-accelerated deadlines for all (10-Q 40, 10-K 60)",22347,8.69,1.0,78.15,7.0
+10-K,large accelerated,legal deadline for the filer's status,22347,8.69,1.0,78.15,7.0
+10-K,large accelerated,"actual filing, first usable day (baseline)",22347,0.0,0.0,0.0,0.0
+10-K,no status,period end,1,100.0,87.0,0.0,0.0
+10-K,no status,period end + 30 days,1,100.0,59.0,0.0,0.0
+10-K,no status,period end + 45 days,1,100.0,44.0,0.0,0.0
+10-K,no status,period end + 60 days,1,100.0,29.0,0.0,0.0
+10-K,no status,period end + 90 days,1,0.0,0.0,100.0,3.0
+10-K,no status,"US large-accelerated deadlines for all (10-Q 40, 10-K 60)",1,100.0,29.0,0.0,0.0
+10-K,no status,legal deadline for the filer's status,1,0.0,0.0,100.0,3.0
+10-K,no status,"actual filing, first usable day (baseline)",1,0.0,0.0,0.0,0.0
+10-K,non-accelerated,period end,32074,100.0,87.0,0.0,0.0
+10-K,non-accelerated,period end + 30 days,32074,99.76,58.0,0.2,5.0
+10-K,non-accelerated,period end + 45 days,32074,98.63,43.0,1.12,7.0
+10-K,non-accelerated,period end + 60 days,32074,92.03,29.0,6.8,6.0
+10-K,non-accelerated,period end + 90 days,32074,36.31,15.0,52.9,14.0
+10-K,non-accelerated,"US large-accelerated deadlines for all (10-Q 40, 10-K 60)",32074,92.03,29.0,6.8,6.0
+10-K,non-accelerated,legal deadline for the filer's status,32074,36.31,15.0,52.9,14.0
+10-K,non-accelerated,"actual filing, first usable day (baseline)",32074,0.0,0.0,0.0,0.0
+10-Q,accelerated,period end,33395,100.0,38.0,0.0,0.0
+10-Q,accelerated,period end + 30 days,33395,92.28,8.0,5.4,4.0
+10-Q,accelerated,period end + 45 days,33395,2.01,7.0,97.43,7.0
+10-Q,accelerated,period end + 60 days,33395,0.83,48.5,99.15,22.0
+10-Q,accelerated,period end + 90 days,33395,0.51,74.0,99.48,52.0
+10-Q,accelerated,"US large-accelerated deadlines for all (10-Q 40, 10-K 60)",33395,17.02,1.0,64.11,4.0
+10-Q,accelerated,legal deadline for the filer's status,33395,17.02,1.0,64.11,4.0
+10-Q,accelerated,"actual filing, first usable day (baseline)",33395,0.0,0.0,0.0,0.0
+10-Q,large accelerated,period end,65845,100.0,35.0,0.0,0.0
+10-Q,large accelerated,period end + 30 days,65845,75.99,7.0,18.8,4.0
+10-Q,large accelerated,period end + 45 days,65845,0.56,9.0,99.24,11.0
+10-Q,large accelerated,period end + 60 days,65845,0.25,70.0,99.75,26.0
+10-Q,large accelerated,period end + 90 days,65845,0.17,83.5,99.83,55.0
+10-Q,large accelerated,"US large-accelerated deadlines for all (10-Q 40, 10-K 60)",65845,6.39,1.0,83.67,6.0
+10-Q,large accelerated,legal deadline for the filer's status,65845,6.39,1.0,83.67,6.0
+10-Q,large accelerated,"actual filing, first usable day (baseline)",65845,0.0,0.0,0.0,0.0
+10-Q,no status,period end,1,100.0,40.0,0.0,0.0
+10-Q,no status,period end + 30 days,1,100.0,10.0,0.0,0.0
+10-Q,no status,period end + 45 days,1,0.0,0.0,100.0,7.0
+10-Q,no status,period end + 60 days,1,0.0,0.0,100.0,22.0
+10-Q,no status,period end + 90 days,1,0.0,0.0,100.0,50.0
+10-Q,no status,"US large-accelerated deadlines for all (10-Q 40, 10-K 60)",1,0.0,0.0,0.0,0.0
+10-Q,no status,legal deadline for the filer's status,1,0.0,0.0,100.0,7.0
+10-Q,no status,"actual filing, first usable day (baseline)",1,0.0,0.0,0.0,0.0
+10-Q,non-accelerated,period end,101600,100.0,44.0,0.0,0.0
+10-Q,non-accelerated,period end + 30 days,101600,97.11,14.0,2.2,5.0
+10-Q,non-accelerated,period end + 45 days,101600,34.16,5.0,45.78,5.0
+10-Q,non-accelerated,period end + 60 days,101600,8.05,53.0,91.79,16.0
+10-Q,non-accelerated,period end + 90 days,101600,5.18,98.0,94.6,46.0
+10-Q,non-accelerated,"US large-accelerated deadlines for all (10-Q 40, 10-K 60)",101600,76.84,5.0,17.55,5.0
+10-Q,non-accelerated,legal deadline for the filer's status,101600,34.16,5.0,45.78,5.0
+10-Q,non-accelerated,"actual filing, first usable day (baseline)",101600,0.0,0.0,0.0,0.0

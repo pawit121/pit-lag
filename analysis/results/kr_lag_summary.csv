@@ -1,0 +1,10 @@
+report_type,market,filings,deadline_days,median_lag,p10_lag,p90_lag,on_deadline_day_pct,late_pct,over_365_days_pct
+annual,KOSPI,8429,90,81.0,73.0,91.0,33.55,0.26,0.0
+annual,KOSDAQ,14836,90,81.0,75.0,90.0,26.6,1.16,0.01
+annual,all,23265,90,81.0,74.0,91.0,29.12,0.83,0.0
+half-year,KOSPI,8342,45,45.0,43.0,48.0,77.58,1.07,0.0
+half-year,KOSDAQ,14078,45,45.0,43.0,48.0,69.61,3.94,0.0
+half-year,all,22420,45,45.0,43.0,48.0,72.58,2.87,0.0
+quarterly,KOSPI,16318,45,45.0,44.0,47.0,80.84,1.05,0.0
+quarterly,KOSDAQ,28234,45,45.0,43.0,47.0,68.44,3.71,0.0
+quarterly,all,44552,45,45.0,43.0,47.0,72.98,2.74,0.0

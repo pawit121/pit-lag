@@ -1,0 +1,19 @@
+Coverage check: periodic reports filed 2025-04-01 to 2025-06-30
+
+  KOSPI      904 filings 
+  KOSDAQ   1,865 filings 
+
+Report titles (correction prefixes removed), most common first:
+   2,580  Quarterly Report (YYYY.MM)                         -> quarterly
+     166  Annual Report (YYYY.MM)                            -> annual
+      23  Semi-annual Report (YYYY.MM)                       -> half-year
+
+Companies with a quarterly report for 2025.03 (compare with the number of listed companies):
+  KOSPI      789
+  KOSDAQ   1,685
+
+Cross-check against the Korean API with the same query:
+  KOSPI   English    904   Korean    904   English/Korean 100.0%
+  KOSDAQ  English  1,865   Korean  1,865   English/Korean 100.0%
+
+33 API calls. If every main title is recognised and the counts look complete, run the full pull: python kr_filing_lags.py

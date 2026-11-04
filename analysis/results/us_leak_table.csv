@@ -1,0 +1,17 @@
+form,convention,filings,leaked_pct,median_days_early,unused_pct,median_days_unused
+10-K,period end,65245,100.0,68.0,0.0,0.0
+10-K,period end + 30 days,65245,99.62,39.0,0.29,4.0
+10-K,period end + 45 days,65245,94.11,26.0,4.61,5.0
+10-K,period end + 60 days,65245,60.55,24.0,33.62,6.0
+10-K,period end + 90 days,65245,18.4,15.0,76.19,30.0
+10-K,"US large-accelerated deadlines for all (10-Q 40, 10-K 60)",65245,60.55,24.0,33.62,6.0
+10-K,legal deadline for the filer's status,65245,23.13,13.0,65.31,10.0
+10-K,"actual filing, first usable day (baseline)",65245,0.0,0.0,0.0,0.0
+10-Q,period end,200841,100.0,39.0,0.0,0.0
+10-Q,period end + 30 days,200841,89.39,10.0,8.17,4.0
+10-Q,period end + 45 days,200841,17.8,5.0,71.89,7.0
+10-Q,period end + 60 days,200841,4.29,53.0,95.62,21.0
+10-Q,period end + 90 days,200841,2.76,95.0,97.13,51.0
+10-Q,"US large-accelerated deadlines for all (10-Q 40, 10-K 60)",200841,43.8,5.0,46.97,5.0
+10-Q,legal deadline for the filer's status,200841,22.21,3.0,61.25,5.0
+10-Q,"actual filing, first usable day (baseline)",200841,0.0,0.0,0.0,0.0

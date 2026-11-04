@@ -1,0 +1,9 @@
+form,measure,value
+10-K,accepted at or after 16:00 New York time (%),64.38
+10-K,"accepted after 17:30, so EDGAR dates it the next business day (%)",12.4
+10-K,later amended: a 10-K/A for the same company and period (%),3.51
+10-K,10-K/A amendments for periods in the window (count),3233.0
+10-Q,accepted at or after 16:00 New York time (%),58.81
+10-Q,"accepted after 17:30, so EDGAR dates it the next business day (%)",8.37
+10-Q,later amended: a 10-Q/A for the same company and period (%),1.55
+10-Q,10-Q/A amendments for periods in the window (count),4719.0

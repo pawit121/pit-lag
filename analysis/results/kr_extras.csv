@@ -1,0 +1,14 @@
+report_type,measure,value
+annual,filed on the deadline day (%),29.12
+annual,filed after the deadline (%),0.83
+annual,corrected later: a correction filing or rm flag U (%),22.76
+annual,correction filings (count),7927.0
+half-year,filed on the deadline day (%),72.58
+half-year,filed after the deadline (%),2.87
+half-year,corrected later: a correction filing or rm flag U (%),6.69
+half-year,correction filings (count),2218.0
+quarterly,filed on the deadline day (%),72.98
+quarterly,filed after the deadline (%),2.74
+quarterly,corrected later: a correction filing or rm flag U (%),6.49
+quarterly,correction filings (count),3452.0
+all,filings with an unrecognised title (count),3.0

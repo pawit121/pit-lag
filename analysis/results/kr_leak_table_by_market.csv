@@ -1,0 +1,49 @@
+report_type,market,convention,filings,leaked_pct,leaked_pct_if_usable_same_day,median_days_early,unused_pct,median_days_unused
+annual,KOSDAQ,period end,14836,100.0,100.0,82.0,0.0,0.0
+annual,KOSDAQ,period end + 30 days,14836,100.0,100.0,52.0,0.0,0.0
+annual,KOSDAQ,period end + 45 days,14836,99.99,99.99,37.0,0.0,0.0
+annual,KOSDAQ,period end + 60 days,14836,99.9,99.85,21.0,0.05,5.0
+annual,KOSDAQ,period end + 90 days,14836,27.76,1.16,1.0,63.09,10.0
+annual,KOSDAQ,"US large-accelerated deadlines (quarterly and half-year 40, annual 60)",14836,99.9,99.85,21.0,0.05,5.0
+annual,KOSDAQ,"Korean legal deadline (quarterly and half-year 45, annual 90)",14836,27.76,1.16,1.0,63.09,10.0
+annual,KOSDAQ,"actual filing, next business day (baseline)",14836,0.0,0.0,0.0,0.0,0.0
+annual,KOSPI,period end,8429,100.0,100.0,81.0,0.0,0.0
+annual,KOSPI,period end + 30 days,8429,100.0,100.0,51.0,0.0,0.0
+annual,KOSPI,period end + 45 days,8429,100.0,99.95,37.0,0.0,0.0
+annual,KOSPI,period end + 60 days,8429,99.5,99.35,21.0,0.4,9.0
+annual,KOSPI,period end + 90 days,8429,33.81,0.26,1.0,58.67,12.0
+annual,KOSPI,"US large-accelerated deadlines (quarterly and half-year 40, annual 60)",8429,99.5,99.35,21.0,0.4,9.0
+annual,KOSPI,"Korean legal deadline (quarterly and half-year 45, annual 90)",8429,33.81,0.26,1.0,58.67,12.0
+annual,KOSPI,"actual filing, next business day (baseline)",8429,0.0,0.0,0.0,0.0,0.0
+half-year,KOSDAQ,period end,14078,100.0,100.0,47.0,0.0,0.0
+half-year,KOSDAQ,period end + 30 days,14078,99.94,99.93,17.0,0.06,8.0
+half-year,KOSDAQ,period end + 45 days,14078,73.55,3.94,2.0,4.75,3.0
+half-year,KOSDAQ,period end + 60 days,14078,1.92,0.16,1.0,97.29,13.0
+half-year,KOSDAQ,period end + 90 days,14078,0.06,0.04,38.5,99.94,43.0
+half-year,KOSDAQ,"US large-accelerated deadlines (quarterly and half-year 40, annual 60)",14078,99.42,98.71,7.0,0.28,4.0
+half-year,KOSDAQ,"Korean legal deadline (quarterly and half-year 45, annual 90)",14078,73.55,3.94,2.0,4.75,3.0
+half-year,KOSDAQ,"actual filing, next business day (baseline)",14078,0.0,0.0,0.0,0.0,0.0
+half-year,KOSPI,period end,8342,100.0,100.0,47.0,0.0,0.0
+half-year,KOSPI,period end + 30 days,8342,99.99,99.99,17.0,0.01,1.0
+half-year,KOSPI,period end + 45 days,8342,78.65,1.07,2.0,2.79,4.0
+half-year,KOSPI,period end + 60 days,8342,0.66,0.01,1.0,99.16,13.0
+half-year,KOSPI,period end + 90 days,8342,0.0,0.0,0.0,99.99,43.0
+half-year,KOSPI,"US large-accelerated deadlines (quarterly and half-year 40, annual 60)",8342,99.51,99.18,7.0,0.23,4.0
+half-year,KOSPI,"Korean legal deadline (quarterly and half-year 45, annual 90)",8342,78.65,1.07,2.0,2.79,4.0
+half-year,KOSPI,"actual filing, next business day (baseline)",8342,0.0,0.0,0.0,0.0,0.0
+quarterly,KOSDAQ,period end,28234,100.0,100.0,46.0,0.0,0.0
+quarterly,KOSDAQ,period end + 30 days,28234,99.79,99.69,16.0,0.17,4.0
+quarterly,KOSDAQ,period end + 45 days,28234,72.15,3.71,1.0,7.99,3.0
+quarterly,KOSDAQ,period end + 60 days,28234,1.77,0.08,1.0,97.59,14.0
+quarterly,KOSDAQ,period end + 90 days,28234,0.03,0.02,15.5,99.97,44.0
+quarterly,KOSDAQ,"US large-accelerated deadlines (quarterly and half-year 40, annual 60)",28234,98.29,97.06,6.0,1.12,4.0
+quarterly,KOSDAQ,"Korean legal deadline (quarterly and half-year 45, annual 90)",28234,72.15,3.71,1.0,7.99,3.0
+quarterly,KOSDAQ,"actual filing, next business day (baseline)",28234,0.0,0.0,0.0,0.0,0.0
+quarterly,KOSPI,period end,16318,100.0,100.0,46.0,0.0,0.0
+quarterly,KOSPI,period end + 30 days,16318,99.89,99.79,16.0,0.06,3.5
+quarterly,KOSPI,period end + 45 days,16318,81.9,1.05,1.0,4.06,3.0
+quarterly,KOSPI,period end + 60 days,16318,0.59,0.06,1.0,99.19,14.0
+quarterly,KOSPI,period end + 90 days,16318,0.01,0.01,25.5,99.99,44.0
+quarterly,KOSPI,"US large-accelerated deadlines (quarterly and half-year 40, annual 60)",16318,99.12,98.49,6.0,0.52,5.0
+quarterly,KOSPI,"Korean legal deadline (quarterly and half-year 45, annual 90)",16318,81.9,1.05,1.0,4.06,3.0
+quarterly,KOSPI,"actual filing, next business day (baseline)",16318,0.0,0.0,0.0,0.0,0.0
