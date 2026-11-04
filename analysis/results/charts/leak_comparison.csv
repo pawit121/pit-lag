@@ -1,0 +1,9 @@
+report,rule,us_pct,korea_estimate_pct,korea_if_next_day_pct,korea_if_same_day_pct
+quarterly,"US large-company deadlines (40 days quarterly, 60 annual)",43.8,98.6,98.9,98.0
+quarterly,Period end + 45 days,17.8,50.4,75.6,2.8
+quarterly,Period end + 90 days,2.8,0.0,0.0,0.0
+quarterly,Each market's legal deadline,22.2,50.4,75.6,2.8
+annual,"US large-company deadlines (40 days quarterly, 60 annual)",60.5,99.7,99.8,99.7
+annual,Period end + 45 days,94.1,100.0,100.0,100.0
+annual,Period end + 90 days,18.4,21.4,30.0,0.8
+annual,Each market's legal deadline,23.1,21.4,30.0,0.8
