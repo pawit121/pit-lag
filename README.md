@@ -12,7 +12,7 @@ Most backtests join fundamentals at the period end, or at the period end plus a 
 - Korea's own deadline, used on the deadline day, takes about half of its quarterly reports a day early. Most are filed after the close.
 - Filing date when known, deadline when not, then the next trading day: 5.2% of US filings and 2.3% of Korean reports still come in early, all of them late filers.
 
-Write-up: One lag doesn't fit all markets: look-ahead in US and Korean fundamentals ([link to the article])
+Write-up: [One lag doesn't fit all markets: look-ahead in US and Korean fundamentals](https://pit-lag.pages.dev/)
 
 ## Install
 
